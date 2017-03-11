@@ -1,5 +1,8 @@
 _repo: The-Magic-of-Oz_419
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Baum, L. Frank (Lyman Frank)
@@ -21,6 +24,8 @@ description: "The Magic of Oz: A Faithful Record of the Remarkable Adventures of
   \ former Nome King Ruggedo to conquer Oz.\nThe novel was dedicated to \"the Children\
   \ of our Soldiers, the Americans and their Allies, with unmeasured Pride and Affection.\"\
   \n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/419#The-Magic-of-Oz
 gutenberg_bookshelf:
 - Children's Literature
 - Fantasy
